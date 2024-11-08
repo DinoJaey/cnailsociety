@@ -14,7 +14,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Arial, sans-serif;
+    font-family: 'Kingred', Arial, sans-serif;
     text-align: center;
     background: linear-gradient(135deg, #E6E6FA, #D8BFD8, #B0A7D8, #D8BFD8, #E6E6FA);
     background-size: 200% 200%;
@@ -44,7 +44,7 @@ html, body {
     min-width: 325px;
 }
 
-img.logo {
+.logo {
     max-width: 100%;
     width: auto;
     height: auto;
