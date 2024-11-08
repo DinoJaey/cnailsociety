@@ -13,8 +13,8 @@ html, body {
 }
 
 #organization {
-    font-family: 'Parisienne', cursive;
-    font-size: 3rem;
+    font-family: Parisienne;
+    font-size: 1.5rem;
 }
 
 .no-border {
@@ -28,6 +28,13 @@ html, body {
     border: none;
     box-shadow: none;
     background: transparent;
+}
+
+img.logo {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    max-height: 125px;
 }
 
 
