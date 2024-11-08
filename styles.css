@@ -44,7 +44,7 @@ html, body {
     min-width: 325px;
 }
 
-img.logo {
+.logo {
     max-width: 100%;
     width: auto;
     height: auto;
