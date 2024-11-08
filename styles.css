@@ -12,6 +12,11 @@ html, body {
     border: none;
 }
 
+#organization {
+    font-family: 'Parisienne', cursive;
+    font-size: 3rem;
+}
+
 .no-border {
     border: none;
     box-shadow: none;
